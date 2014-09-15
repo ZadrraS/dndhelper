@@ -1,0 +1,59 @@
+﻿Alytaus apskritis:
+Alytaus – Butrimonys, Krokialaukis, Nemunaitis;
+Druskininkų – Leipalingis, Viečiūnai;
+Lazdijų – Kapčiamiestis, Krosna, Rudamina, Seirijai, Šeštokai, Šventežeris;
+Varėnos – Merkinė, Valkininkai;
+Kauno apskritis:
+Jonavos – Panoteriai, Rukla, Žeimiai;
+Kaišiadorių – Kruonis, Rumšiškės, Žasliai;
+Kauno – Akademija, Babtai, Čekiškė, Domeikava, Kačerginė, Karmėlava, Kulautuva, Lapės, Vandžiogala, Zapyškis;
+Kėdainių – Akademija, Dotnuva, Gudžiūnai, Josvainiai, Krakės, Pagiriai, Pernarava, Surviliškis, Šėta, Truskava;
+Prienų – Balbieriškis, Pakuonis, Veiveriai;
+Raseinių – Betygala, Girkalnis, Lyduvėnai, Nemakščiai, Šiluva, Viduklė, Žaiginys;
+Klaipėdos apskritis:
+Klaipėdos – Dovilai, Endriejavas, Judrėnai, Kretingalė, Plikiai, Veiviržėnai, Vėžaičiai;
+Kretingos – Darbėnai, Kartena;
+Skuodo – Barstyčiai, Ylakiai, Lenkimai, Mosėdis;
+Šilutės – Gardamas, Katyčiai, Kintai, Rusnė, Švėkšna, Vainutas, Žemaičių Naumiestis;
+Marijampolės apskritis:
+Kazlų Rūdos – Jūrė;
+Marijampolės – Daukšiai, Gudeliai, Igliškėliai, Liudvinavas, Sasnava, Šunskai;
+Šakių – Barzdai, Griškabūdis, Kriūkai, Lekėčiai, Lukšiai, Sintautai, Žemoji Panemunė, Žvirgždaičiai;
+Vilkaviškio – Bartninkai, Gražiškiai, Keturvalakiai, Pilviškiai, Vištytis;
+Panevėžio apskritis:
+Biržų – Kupreliškis, Nemunėlio Radviliškis, Pabiržė, Papilys;
+Kupiškio – Alizava, Antašava, Palėvenė, Salamiestis, Senasis Subačius, Skapiškis, Šimonys;
+Panevėžio – Geležiai, Krekenava, Miežiškiai, Naujamiestis, Raguva, Smilgiai, Šilai, Vadokliai;
+Pasvalio – Daujėnai, Krikliniai, Krinčinas, Pumpėnai, Pušalotas, Saločiai, Vaškai;
+Rokiškio – Čedasai, Duokiškis, Juodupė, Jūžintai, Kamajai, Panemunėlis, Panemunis, Salos, Suvainiškis;
+Šiaulių apskritis:
+Akmenės – Kruopiai, Papilė;
+Joniškio – Kriukai, Skaistgirys;
+Kelmės – Karklėnai, Kražiai, Lioliai, Pašilė, Šaukėnai, Žalpiai;
+Pakruojo – Klovainiai, Lygumai, Pašvitinys, Rozalimas, Žeimelis;
+Radviliškio – Baisogala, Grinkiškis, Palonai, Pašušvys, Pociūnėliai, Sidabravas, Šaukotas, Šiaulėnai, Tyruliai, Vadaktai;
+Šiaulių – Bazilionai (Padubysys), Gruzdžiai, Kairiai, Kurtuvėnai, Kužiai, Meškuičiai, Šakyna;
+Tauragės apskritis:
+Jurbarko – Eržvilkas, Raudonė, Seredžius, Stakiai, Šimkaičiai, Vadžgirys, Veliuona, Viešvilė;
+Pagėgių – Vilkyškiai;
+Šilalės – Kaltinėnai, Kvėdarna, Laukuva, Pajūris, Teneniai, Upyna, Žvingiai;
+Tauragės – Batakiai, Gaurė, Pagramantis, Žygaičiai;
+Telšių apskritis:
+Mažeikių – Laižuva, Leckava, Pikeliai, Tirkšliai, Židikai;
+Plungės – Alsėdžiai, Kuliai, Plateliai, Žemaičių Kalvarija;
+Rietavo – Tverai;
+Telšių – Eigirdžiai, Gadūnavas, Janapolė, Lauko Soda, Luokė, Nerimdaičiai, Nevarėnai, Pavandenė, Tryškiai, Ubiškė, Žarėnai;
+Utenos apskritis:
+Anykščių – Andrioniškis, Debeikiai, Kurkliai, Skiemonys, Surdegis, Svėdasai, Traupis, Viešintos;
+Ignalinos – Mielagėnai, Rimšė, Tverečius;
+Molėtų – Alanta, Balninkai, Dubingiai, Giedraičiai, Joniškis;
+Utenos – Daugailiai, Kuktiškės, Leliūnai, Saldutiškis, Sudeikiai, Tauragnai, Užpaliai, Vyžuonos;
+Zarasų – Antalieptė, Salakas, Turmantas.
+Vilniaus apskritis:
+Elektrėnų – Semeliškės;
+Šalčininkų – Dieveniškės, Jašiūnai;
+Širvintų – Bagaslaviškis, Gelvonai, Kernavė, Musninkai, Zibalai;
+Švenčionių – Adutiškis, Kaltanėnai, Labanoras;
+Trakų – Aukštadvaris, Onuškis;
+Ukmergės – Deltuva, Lyduokiai, Pabaiskas, Siesikai, Šešuoliai, Taujėnai, Vepriai, Vidiškiai, Želva, Žemaitkiemis;
+Vilniaus – Bezdonys, Maišiagala, Mickūnai, Šumskas.

@@ -1,0 +1,38 @@
+Armorer
+Artist – a painter of portraits
+Baker
+Blacksmith
+Bookbinder
+Bowyer
+Brewer – a maker of beer and ale
+Bricklayer – a laborer skilled in the building of walls and ducts
+Butcher
+Candlemaker or Chandler
+Carpenter – an elite tradesman, skilled in math as well as woodworking
+Cartwright – a maker and repairer of carts and wagons
+Clothier – a garment-maker
+Cobbler or Shoemaker – makes and mends shoes
+Cook
+Cooper – a barrel-maker
+Dyer – a maker of inks, paints, dyes, and stains
+Engraver
+Furrier
+Glassblower
+Goldsmith or Silversmith
+Hatter
+Innkeeper or Tavern-keeper
+Jeweler
+Joiner – a maker of furniture
+Leatherworker
+Locksmith
+Mason
+Merchant
+Moneylender
+Potter
+Shipwright – a builder of ships
+Tax Collector
+Tinker – a traveling craftsman who repairs tin pots and other small items, often also a peddler
+Torturer
+Trader – by land or by sea
+Vintner – a maker of wines
+Weaver

@@ -1,0 +1,12 @@
+TEMPLATE
+Vardas: names/names_men_baltic.txt - vyr, names/names_women_baltic.txt - mot | Lytis
+Lytis: mot - 0.2, vyr - 0.8
+Rasė: žmogus - 0.7, dwarfas - 0.1, elfas - 0.1, haflingas - 0.05, gnomas - 0.05
+Amžius: jaunas - 0.33, vidutinis - 0.34, senas - 0.33
+Plaukai: rudi - 0.5, juodi - 0.2, geltoni - 0.2, raudoni - 0.1
+Plaukų tipas: traits/hair_type.txt
+Barzda: ((milžiniška - 0.05, didelė - 0.15, maža - 0.3, nėra - 0.5) - vyr, nėra - mot | Lytis) - ANY, ((milžiniška - 0.2, didelė - 0.5, maža - 0.3) - vyr, nera - mot | Lytis) - dwarfas | Rasė
+Kalbos bruožas: traits/speech_manner.txt
+Veido bruožas: traits/facial_features.txt
+Budo bruozai: 3 * traits/character_traits.txt
+Darbas: occupations/entertainers.txt, occupations/learned.txt, occupations/lesser_nobility.txt, occupations/martial.txt, occupations/professionals.txt, occupations/scoundrels.txt, occupations/working_class.txt
