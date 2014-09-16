@@ -14,7 +14,7 @@ def roll_batch(die_params, sumup = True):
 	if sumup:
 		return sum(roll_results)
 	else:
-		return roll_result
+		return roll_results
 
 def roll_all(die_param_list, sumup = True):
 	roll_results = [roll_batch(die_params, sumup = True) for die_params in die_param_list]
