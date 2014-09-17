@@ -11,7 +11,6 @@ parser = argparse.ArgumentParser(description='Simple histogram generator to quic
 parser.add_argument('number_source', \
 	help='Source for numbers to draw the histogram from. Can be a file or stdin. Intended use is piping to this, ex.: ./roll_dice 4d6 -b 3 -c 1000 | ./draw_histogram', \
 	nargs = "?", type = argparse.FileType('r'), default = sys.stdin)
-
 args = parser.parse_args()
 
 number_columns = []
@@ -23,6 +22,9 @@ for line in fileinput.input():
 	number_columns.append(numbers)
 
 numbers = numpy.asarray(number_columns)
+
+if numbers.shape[0] < numbers.shape[1]:
+	numbers = numpy.transpose(numbers)
 
 x_bins = range(numpy.amin(numbers), numpy.amax(numbers) + 2)
 x_bin_offsets = [x + 0.5 for x in x_bins]
@@ -38,7 +40,9 @@ if numbers.shape[1] > 1:
 	alpha = 0.5
 n, bins, patches = plt.hist(numbers, bins = x_bins, normed = True, alpha = alpha, histtype = 'stepfilled')
 
-ax.xaxis.grid(True, linestyle='-') 
+#ax.xaxis.grid(True, linestyle = '-', which = 'major')
+plt.xticks(x_bins)
+ax.xaxis.grid(True, linestyle = '-', which = 'major')
 ax.yaxis.grid(True, linestyle='--') 
 
 plt.xlabel('Result')
