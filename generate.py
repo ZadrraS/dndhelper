@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 
 import random
 import sys
@@ -262,7 +262,7 @@ def print_sample_aggregate(names, content_map):
 				output_line = output_line + item+", "
 
 			output_line = output_line + content_map[names[i]][-1]
-		print output_line
+		print(output_line)
 
 def save_sample_aggregate(log_file, names, content_map):
 	for i in range(len(names)):
@@ -314,8 +314,8 @@ for i in range(repeats):
 		log_file.write("\n")
 
 		if i != repeats - 1:
-			print ""
+			print("")
 	else:
 		template_file.close()
 		ufg = UniformFileGenerator("UFG", content_map, template_file_name)
-		print ufg.generate_sample()
+		print(ufg.generate_sample())

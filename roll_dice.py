@@ -119,9 +119,9 @@ try:
 			output_line = output_line + output_string
 
 		output_line = output_line + "|"
-		print output_line
+		print(output_line)
 		output_line = "-" * len(output_line)
-		print output_line
+		print(output_line)
 
 		output_line = ""
 		for i, roll in enumerate(rolls):
@@ -133,13 +133,13 @@ try:
 				output_string = output_string + " " * (max_die_line_len - len(output_string))
 				output_line = output_line + output_string
 
-			print output_line + "|"
+			print(output_line + "|")
 	else:
 		for roll in rolls:
 			for result in roll:
-				print result,
+				print(result,)
 			if not args.line_print:
-				print ""
+				print("")
 
 except DiceArgumentException as ex:
-	print ex.args[0]
+	print(ex.args[0])

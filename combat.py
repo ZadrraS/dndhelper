@@ -30,7 +30,7 @@ try:
 		elif args.d:
 			attack_result = max(attack_result, du.roll_batch(attack_dice[0]))
 
-		print "Attack roll:     " + str(attack_result + attack_bonus), "vs AC", target_ac
+		print("Attack roll:     " + str(attack_result + attack_bonus), "vs AC", target_ac)
 
 		damage_dice, damage_bonus = du.parse_roll_line(args.damage_roll)
 		damage = du.roll_all(damage_dice) + damage_bonus
@@ -38,16 +38,16 @@ try:
 			damage += du.roll_all(damage_dice)
 
 		if attack_result == 20:
-			print "CRITICAL HIT!"
-			print "Damage roll:     " + str(damage)
+			print("CRITICAL HIT!")
+			print("Damage roll:     " + str(damage))
 		elif attack_result + attack_bonus >= target_ac:
-			print "HIT!"
-			print "Damage roll:     " + str(damage)
+			print("HIT!")
+			print("Damage roll:     " + str(damage))
 		else:
-			print "MISS!"
+			print("MISS!")
 
 		if i < repeats - 1:
-			print "----------------------------"
+			print("----------------------------")
 
 except Exception as ex:
-	print ex.args[0]
+	print(ex.args[0])
